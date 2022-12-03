@@ -1,0 +1,12 @@
+﻿CREATE TABLE carro (
+  chassi int(11),
+  datafab varchar(10),
+  placa varchar(7),
+  modelo varchar(30),
+  potencia float(4,2),
+  renavam varchar(15),
+  motor float(1,1),
+  cord varchar(20),
+  variacao varchar(10),
+  combustivel varchar(10)
+)
